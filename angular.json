@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rodo-lelon"
+    }
+  },
+  "defaultProject": "rodo-lelon",
+  "cli": {
+    "analytics": "3b5546ef-e164-4334-a307-62b2fd9c659e"
+  }
 }
